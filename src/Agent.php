@@ -32,7 +32,7 @@ class Agent extends Mobile_Detect {
         'Chrome'            => 'Chrome',
         'Firefox'           => 'Firefox',
         'Safari'            => 'Safari',
-        'IE'                => 'MSIE|IEMobile|MSIEMobile|Trident/[.0-9]+',
+        'IE'                => 'MSIE|IEMobile|MSIEMobile|Edge/[.0-9]+|Trident/[.0-9]+',
         'Netscape'          => 'Netscape',
         'Mozilla'           => 'Mozilla',
     );
